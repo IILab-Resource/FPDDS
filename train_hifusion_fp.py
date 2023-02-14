@@ -123,7 +123,7 @@ def get_cold_split_data_loader(dataset_name, cold_split_scheme, descript_set):
 
 
 dataset_name = 'drugcombdb'
-data_path = '../dataset/'
+data_path = '.'
 def get_dataloaders(dataset_name, data_path, descript_set):
 
 
